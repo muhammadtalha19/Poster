@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.apple{
+    
+    border: px solid white;
+    width: 100%;
+}
+.meme{
+    margin-left: 25%;
+    width: 50%;  
+}
+.text{
+    color: gold;
+    text-align: center;
+    font-style: normal;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 0%;
+}
